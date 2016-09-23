@@ -7,7 +7,7 @@ public class StringUtilTest{
 
     @Test
     public void testSayHello() {
-       Assert.assertEquals("hello1", StringUtil.sayHello());
+       Assert.assertEquals("hello", StringUtil.sayHello());
     }
 
 }
